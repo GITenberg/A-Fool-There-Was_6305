@@ -1,0 +1,22 @@
+_repo: A-Fool-There-Was_6305
+creator:
+  author:
+    agent_name: Browne, Porter Emerson
+    birthdate: 1879
+    deathdate: 1934
+    gutenberg_agent_id: '1988'
+    url: http://www.gutenberg.org/2009/agents/1988
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Femmes fatales -- Fiction'
+- !lcc 'PS'
+title: A Fool There Was
+url: http://www.gutenberg.org/ebooks/6305
